@@ -65,7 +65,7 @@ The rites of installation vary depending on the system of worship. Ensure you ha
 Proceed thusly:
 
 ```
-$ git clone https://github.com/YOUR_USERNAME/motivate-mechanicus.git
+$ git clone https://github.com/andra-putra/motivate-mechanicus.git
 $ cd motivate-mechanicus/motivate
 $ sudo ./install.sh
 $ source ~/.bashrc
@@ -78,7 +78,7 @@ Zsh users should replace `.bashrc` with `.zshrc`.
 If thou lackest root privilege, proceed thusly:
 
 ```
-$ git clone https://github.com/YOUR_USERNAME/motivate-mechanicus.git
+$ git clone https://github.com/andra-putra/motivate-mechanicus.git
 $ cd motivate-mechanicus
 $ ln -s $PWD/motivate/motivate.py moti
 $ ln -s $PWD/dummy.sh mmoti
@@ -99,7 +99,7 @@ Anoint the keyboard with Blessed Lubricant of the Lesser Cog before invoking the
 To bring the Omnissiah's blessings to an inferior system:
 
 * Ensure Python3 is on your system path, lest the Omnissiah's blessings be absent.
-* Clone the repository: `git clone https://github.com/YOUR_USERNAME/motivate-mechanicus.git`.
+* Clone the repository: `git clone https://github.com/andra-putra/motivate-mechanicus.git`.
 * Add the path to your local clone to your system's sacred path.
 * Invoke the motivator with `py -3 motivate.py` from the command prompt.
 
